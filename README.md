@@ -1,4 +1,4 @@
-<p>This a data wrangling project completed by Myself and Mpho Khotleng</p>
+**<p>This a data wrangling project completed by Myself and Mpho Khotleng</p>**
 
 <p>Installations:<p>
 Regex
